@@ -61,4 +61,4 @@
 
 ### This Document
 
-Can be found at (https://github.com/jlefebvre55/jlefebvre55)[https://github.com/jlefebvre55/jlefebvre55/blob/main/DesignBrief.md].
+Can be found at [https://github.com/jlefebvre55/jlefebvre55/DesignBrief.md](https://github.com/jlefebvre55/jlefebvre55/DesignBrief.md).
