@@ -20,3 +20,14 @@ A high-powered, low-cost, safe, portable handheld electromagnetic propulsion dev
 4. Prototyping - parts purchase and assembly
 5. Manufacturing - PCB and body, user interface;
 6. Testing - distance;
+
+## Harmonizer (a la Collier)
+
+An audio device that allows a musician to harmonize a monophonic audio signal with transpositions of itself, live.
+
+Input: Audio signal (source), MIDI (transposition targets)
+Output: Audio signal (transposed)
+Controls: Mix (input vs. output), FX (on transposed signal)
+
+1. Monophonic pitch detection (sample-averaged FFT) detects fundamental frequency
+2. Each sample, the source signal is repitched to match frequencies with MIDI and added to the output signal
