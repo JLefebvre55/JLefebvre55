@@ -1,7 +1,7 @@
 ### Hey! 👋 I'm Jayden
-- 🌱 Working on [**PeaPod**](https://github.com/PeaPodTechnologies/PeaPod), an **open source** automated plant growth environment for space food production and crop performance simulation research.
-- 🔭 Studying to get my BASc in Computer Engineering from the University of Toronto (On hiatus to work on my startup).
-- 💬 Links: [Instagram](https://www.instagram.com/JLefebvre55), [LinkedIn](https://www.linkedin.com/in/jayden-lefebvre-114bb4164/), [Portfolio](https://jlefebvre55.github.io/)
+- 🌱 Working on [**PeaPod**](https://github.com/PeaPodTechnologies/PeaPod), an **open source** automated plant growth environment for remote/outer-space food production and crop performance research.
+- 🔭 Studying to get my BSc in Environmental Science and Sustainable Agriculture from the Trent University and publish research using PeaPod (transferred from UofT BASc Engineering Science 1st Year '20-'21)
+- 💬 Links: [Instagram](https://www.instagram.com/JLefebvre55), [LinkedIn](https://www.linkedin.com/in/jayden-lefebvre-114bb4164/)
 - 📫 Feel free to reach out to me via [email](mailto:jayden.lefebvre55@gmail.com) or on Discord (JLefebvre55#1727)
 
 
